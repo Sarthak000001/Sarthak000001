@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Sarthak Nirgude</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">A Passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak000001&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak000001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak000001" alt="sarthak000001" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript,bac**
-
 - 💬 Ask me about **Html,CSS,JavaScript,C++,Python**
 
 - 📫 How to reach me **sarthaknirgude7@gmail.com**
 
+- ⚡ Fun fact **I think I am funny🤓**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sarthak-nirgude-590322233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarthak-nirgude-590322233/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_i_am_srn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_i_am_srn/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sarthak-nirgude-590322233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-nirgude-590322233" height="30" width="40" /></a>
+<a href="https://instagram.com/_i_am_srn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_i_am_srn" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sarthak010" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sarthak010" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sarthaknirgude01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarthaknirgude01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
