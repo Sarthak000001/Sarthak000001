@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sarthak Nirgude</h1>
-![0_ygaHmPjQnVmEApdT](https://github.com/Sarthak000001/Sarthak000001/assets/100946019/c19e0438-4c7f-4647-99f8-41553e1a0596)
+
+![0_ygaHmPjQnVmEApdT](https://github.com/Sarthak000001/Sarthak000001/assets/100946019/96a9661f-179f-4514-b890-49026954136f)
+
+
 <h3 align="center">A Web Developer & Competitive Programming Enthusiast </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarthak000001&label=Profile%20views&color=0e75b6&style=flat" alt="Sarthak000001" /> </p>
 
