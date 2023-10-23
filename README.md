@@ -4,8 +4,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sarthak000001&theme=" alt="Sarthak000001" /></a> </p>
 
+![Alt Profile](https://www.google.com/url?sa=i&url=https%3A%2F%2Fadaonatalino.medium.com%2Fhow-to-increase-the-security-of-your-application-rails-and-react-ab3adea4a2fd&psig=AOvVaw15vRsXKTzCnqBUJK90UY6g&ust=1698140655178000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCID-8YXxi4IDFQAAAAAdAAAAABAE)
+  
+> 📫 How to reach me **sarthaknirgude7@gmail.com**
 
-- 📫 How to reach me **sarthaknirgude7@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/sarthaknirgude7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Sarthak000001" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
