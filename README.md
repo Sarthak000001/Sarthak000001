@@ -7,6 +7,7 @@
 ![Alt Profile](https://www.google.com/url?sa=i&url=https%3A%2F%2Fadaonatalino.medium.com%2Fhow-to-increase-the-security-of-your-application-rails-and-react-ab3adea4a2fd&psig=AOvVaw15vRsXKTzCnqBUJK90UY6g&ust=1698140655178000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCID-8YXxi4IDFQAAAAAdAAAAABAE)
   
 > 📫 How to reach me **sarthaknirgude7@gmail.com**
+![0_ygaHmPjQnVmEApdT](https://github.com/Sarthak000001/Sarthak000001/assets/100946019/c19e0438-4c7f-4647-99f8-41553e1a0596)
 
 
 <div> <a href="https://www.linkedin.com/in/sarthaknirgude7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
