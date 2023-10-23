@@ -1,10 +1,11 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak000001&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak000001" /> </p>
 <h1 align="center">Hi 👋, I'm Sarthak Nirgude</h1>
 <h3 align="center">A Web Developer & Competitive Programming Enthusiast from India</h3>
 
 
 
+
 <img align = "right" alt="coding" width="300px" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak000001&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak000001" /> </p>
 
 
 
