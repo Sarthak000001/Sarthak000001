@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sarthak Nirgude</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarthak000001&label=Profile%20views&color=0e75b6&style=flat" alt="Sarthak000001" /> </p>
+<h3 align="center">A Web Developer & Competitive Programming Enthusiast </h3>  
 ![0_ygaHmPjQnVmEApdT](https://github.com/Sarthak000001/Sarthak000001/assets/100946019/96a9661f-179f-4514-b890-49026954136f)
 
 
-<h3 align="center">A Web Developer & Competitive Programming Enthusiast </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarthak000001&label=Profile%20views&color=0e75b6&style=flat" alt="Sarthak000001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sarthak000001&theme=" alt="Sarthak000001" /></a> </p>
   
