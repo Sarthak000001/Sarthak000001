@@ -4,6 +4,7 @@
 <h3 align="center">A Web Developer & Competitive Programming Enthusiast </h3>  
 
 ![0_ygaHmPjQnVmEApdT](https://github.com/Sarthak000001/Sarthak000001/assets/100946019/96a9661f-179f-4514-b890-49026954136f)
+![0_ygaHmPjQnVmEApdT](https://www.google.com/imgres?imgurl=https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966&tbnid=zhjSEq0Xd_DH7M&vet=1&imgrefurl=https://github.com/rudrabarad/Gifs&docid=CJdgcKdcN0j58M&w=680&h=428&hl=en-IN&source=sh/x/im/m6/4)
 
   
 > 📫 How to reach me **sarthaknirgude7@gmail.com**
