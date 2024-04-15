@@ -5,7 +5,8 @@
 
 ![githubprof](https://github.com/Sarthak000001/Sarthak000001/assets/100946019/5acaabdf-f32c-4557-b4bc-8b286302cff2)
 
-  
+  ![backiee-286745-landscape](https://github.com/Sarthak000001/Sarthak000001/assets/100946019/ffac581c-7686-4588-941e-833f85e06cc6)
+
 > 📫 How to reach me **sarthaknirgude7@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/sarthaknirgude7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
