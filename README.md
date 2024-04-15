@@ -3,11 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarthak000001&label=Profile%20views&color=0e75b6&style=flat" alt="Sarthak000001" /> </p>
 <h3 align="center">A Web Developer & Competitive Programming Enthusiast </h3>  
 
-![githubprof](https://github.com/Sarthak000001/Sarthak000001/assets/100946019/5acaabdf-f32c-4557-b4bc-8b286302cff2)
-
   ![backiee-286745-landscape](https://github.com/Sarthak000001/Sarthak000001/assets/100946019/ffac581c-7686-4588-941e-833f85e06cc6)
 
-> 📫 How to reach me **sarthaknirgude7@gmail.com**
+>>> 📫 How to reach me **sarthaknirgude7@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/sarthaknirgude7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Sarthak000001" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
