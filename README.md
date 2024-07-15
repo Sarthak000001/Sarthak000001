@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarthak Nirgude</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarthak000001&label=Profile%20views&color=0e75b6&style=flat" alt="Sarthak000001" /> </p>
-<h3 align="center">A Web Developer & Competitive Programming Enthusiast </h3>  
+<h3 align="center">A Web Developer & Passionate Software Developer </h3>  
 
   ![backiee-286745-landscape](https://github.com/Sarthak000001/Sarthak000001/assets/100946019/ffac581c-7686-4588-941e-833f85e06cc6)
 
