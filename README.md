@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarthak Nirgude</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarthak000001&label=Profile%20views&color=0e75b6&style=flat" alt="Sarthak000001" /> </p>
-<h3 align="center">A Web Developer & Passionate Software Developer </h3>  
+<h3 align="center">A Web Developer &  Software Engineer </h3>  
 
   ![backiee-286745-landscape](https://github.com/Sarthak000001/Sarthak000001/assets/100946019/ffac581c-7686-4588-941e-833f85e06cc6)
 
@@ -41,9 +41,9 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
+<!-- <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak000001&layout=compact&theme=transparent" alt=Sarthak000001 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Sarthak000001&show_icons=true&locale=en&theme=transparent" alt="Sarthak000001" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Sarthak000001&show_icons=true&locale=en&theme=transparent" alt="Sarthak000001" /></p> -->
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak000001&theme=transparent" alt="Sarthak000001" /></p>
